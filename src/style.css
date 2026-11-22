@@ -21,4 +21,7 @@
 .right-head{padding-bottom:11px}.right-head .icon-btn{width:27px;height:27px}.object-image{height:137px;margin:16px 0}.object-symbol svg{width:37px;height:37px}.object-tag{font-size:8px}.object-content h1,.process-panel h2,.quiz h2{font-size:19px;margin:10px 0}.description{font-size:10px;margin-bottom:16px}.facts{padding:12px 0;gap:11px}.facts span{font-size:8px}.facts b{font-size:10px}.formation{padding:15px 0}.formation p{font-size:9px}.explore,.outline{height:36px;font-size:10px}.process-panel,.quiz{padding-top:18px}.process-panel p,.quiz p{font-size:10px;margin-bottom:17px}.process-card{height:46px;font-size:11px;padding:0 11px;margin:7px 0}.score{font-size:10px;padding:10px}.hint{font-size:9px}
 .bottom-bar{height:66px;padding:0 18px;gap:12px}.process-info{min-width:240px;gap:10px}.pulse-icon{width:32px;height:32px}.process-info b{font-size:10px}.process-info span{font-size:8px}.process-select,.speed,.view-controls button,.bottom-bar .icon-btn{height:32px;font-size:10px}.process-select{min-width:108px}.play{height:33px;width:37px}.toast{bottom:80px;font-size:8px}
 }
+@media(min-width:761px){.left{width:266px}.right{width:324px}.scene{inset:0 324px 66px 266px}.nav-item{font-size:12.5px}.toggle-row{font-size:11.5px}.description{font-size:10.5px}.object-content h1,.process-panel h2,.quiz h2{font-size:20px}.bottom-bar{height:69px}}
+@media(max-width:1150px) and (min-width:761px){.left{width:278px}.right{width:315px}.scene{inset:0 315px 69px 278px}}
+@media(max-width:760px){.right.panel{width:min(330px,calc(100% - 53px))}}
 
