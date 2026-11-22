@@ -24,4 +24,6 @@
 @media(min-width:761px){.left{width:266px}.right{width:324px}.scene{inset:0 324px 66px 266px}.nav-item{font-size:12.5px}.toggle-row{font-size:11.5px}.description{font-size:10.5px}.object-content h1,.process-panel h2,.quiz h2{font-size:20px}.bottom-bar{height:69px}}
 @media(max-width:1150px) and (min-width:761px){.left{width:278px}.right{width:315px}.scene{inset:0 315px 69px 278px}}
 @media(max-width:760px){.right.panel{width:min(330px,calc(100% - 53px))}}
+.scene.scene-wide{right:0!important}
+@media(max-width:760px){.scene.scene-wide{right:0!important}.scene-wide .depth{bottom:13px}}
 
